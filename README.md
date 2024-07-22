@@ -13,7 +13,7 @@
    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Salianbooth&theme=iceberg&hide_border=" alt="GitHub Streak" /></a>
     <br />
     <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-240-blue)
 
@@ -29,7 +29,7 @@
  > 
 > 📜 9 Public Repositories 
  > 
-> 🔑 2 Private Repositories 
+
  > 
 **I'm an Early 🐤** 
 
@@ -52,23 +52,6 @@ Sunday                   11 commits          ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
 
 **I Mostly Code in HTML** 
 
