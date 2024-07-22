@@ -13,8 +13,18 @@
    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Salianbooth&theme=iceberg&hide_border=" alt="GitHub Streak" /></a>
     <br />
 
-
-
+ <div style="font-size: 36px;text-align: left;">🍔 WakaTime   </div> 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Salianbooth&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Salianbooth&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Salianbooth&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
+</picture>
 
 
 <!--START_SECTION:waka-->
@@ -82,13 +92,6 @@ Assembly                 1 repo              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 JavaScript               1 repo              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.00 % 
 Rust                     1 repo              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.00 % 
 ```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/Salianbooth/Salianbooth/main/assets/bar_graph.png)
-
 
  Last Updated on 22/07/2024 08:41:43 UTC
 <!--END_SECTION:waka-->
