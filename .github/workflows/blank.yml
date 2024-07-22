@@ -22,7 +22,7 @@ jobs:
           SHOW_TOTAL_CODE_TIME: "True" # 显示总编码时间
           SHOW_COMMIT: "True" # 显示提交信息
           SHOW_PROFILE_VIEWS: "True" # 设置为隐藏配置文件视图
-          SHOW_DAYS_OF_WEEK: "True"  # 一周中不同日期进行的提交
+          SHOW_DAYS_OF_WEEK: "False"  # 一周中不同日期进行的提交
           SHOW_LANGUAGE: "True" # 编码语言
           SHOW_EDITORS: "True" # 编辑器
           SHOW_LANGUAGE_PER_REPO: "True" #  
