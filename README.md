@@ -30,13 +30,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-328-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-390-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 100.5 kB Used in GitHub's Storage 
  > 
-> 🏆 242 Contributions in the Year 2024
+> 🏆 245 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -47,9 +47,9 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                114 commits         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   42.22 % 
-🌆 Daytime                72 commits          ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   26.67 % 
-🌃 Evening                83 commits          ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   30.74 % 
+🌞 Morning                114 commits         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   42.07 % 
+🌆 Daytime                73 commits          ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   26.94 % 
+🌃 Evening                83 commits          ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   30.63 % 
 🌙 Night                  1 commits           ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.37 % 
 ```
 
@@ -84,12 +84,8 @@ Rust                     1 repo              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/Salianbooth/Salianbooth/main/assets/bar_graph.png)
-
-
- Last Updated on 22/07/2024 09:06:06 UTC
+ Last Updated on 22/07/2024 09:09:05 UTC
 <!--END_SECTION:waka-->
 
 </p>
