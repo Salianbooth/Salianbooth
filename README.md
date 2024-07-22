@@ -4,3 +4,6 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A347F7&center=&vCenter=&repeat=&width=444&lines=Welcome+to+my+Github+profile+page!;I'm+addicted+to+programming" alt="Typing SVG" /></a>
 </p>
+
+
+<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Salianbooth&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
