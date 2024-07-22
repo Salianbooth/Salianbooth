@@ -5,13 +5,15 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A347F7&center=false%C2%A0%E5%81%87&vCenter=false%C2%A0%E5%81%87&repeat=true%C2%A0%E7%9C%9F&random=false%C2%A0%E5%81%87&width=444&lines=Welcome+to+my+Github+profile+page!" alt="Typing SVG" /></a>
 </p>
 
+ <div style="font-size: 24px;text-align: left;">🧙‍♂️ My Status </div>
 <p align="center">
     <!-- https://github.com/anuraghazra/github-readme-stats -->
- <div style="font-size: 24px;text-align: left;">🧙‍♂️ My Status </div>
   <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Salianbooth&theme=tokyonight&include_all_commits=true&show_icons=true&hide_border=true" />
    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Salianbooth&theme=iceberg&hide_border=" alt="GitHub Streak" /></a>
     <br />
+</p>
  <div style="font-size: 24px;text-align: left;">📊 My Contributions  </div> 
+ <p align="center">
     <img width="800"
         src="https://github-readme-activity-graph.vercel.app/graph?username=Salianbooth&theme=github-compact&hide_border=true&area=true" />
     <br />
