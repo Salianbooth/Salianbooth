@@ -12,11 +12,8 @@
     <br /> <br />
    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Salianbooth&theme=iceberg&hide_border=" alt="GitHub Streak" /></a>
     <br />
-
-
-    <!--START_SECTION:waka-->
-
-
+    
+<!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-240-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-315.4%20thousand%20lines%20of%20code-blue)
