@@ -9,7 +9,7 @@
 <p align="center">
     <!-- https://github.com/anuraghazra/github-readme-stats -->
   <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Salianbooth&theme=tokyonight&include_all_commits=true&show_icons=true&hide_border=true" />
-    <br />
+    <br /> <br />
    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Salianbooth&theme=iceberg&hide_border=" alt="GitHub Streak" /></a>
     <br />
 
@@ -66,17 +66,9 @@ Rust                     1 repo              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 
-
-**Timeline**
-
-
-
-
  Last Updated on 22/07/2024 04:48:28 UTC
 <!--END_SECTION:waka-->
 
- <!-- waka-box start -->
- <!-- waka-box end -->
 </p>
  <div style="font-size: 36px;text-align: left;">📊 My Contributions  </div> 
  <p align="center">
