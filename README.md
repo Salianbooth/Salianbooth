@@ -13,8 +13,7 @@
    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Salianbooth&theme=iceberg&hide_border=" alt="GitHub Streak" /></a>
     <br />
 
-     <!-- waka-box start -->
- <!-- waka-box end -->
+
     <!--START_SECTION:waka-->
 
 
@@ -70,7 +69,8 @@ Rust                     1 repo              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 **Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/Salianbooth/Salianbooth/main/assets/bar_graph.png)
+ <!-- waka-box start -->
+ <!-- waka-box end -->
 
 
  Last Updated on 22/07/2024 04:48:28 UTC
