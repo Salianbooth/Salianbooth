@@ -12,7 +12,11 @@
     <br /> <br />
    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Salianbooth&theme=iceberg&hide_border=" alt="GitHub Streak" /></a>
     <br />
-    
+
+
+
+
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
@@ -84,6 +88,9 @@ Rust                     1 repo              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 **Timeline**
+<p align="center"> <img
+            src="https://wakatime.com/share/@c1448659-c2a1-4987-aad2-a6cd3182d4f9/79307526-07b7-4646-8bd1-d706219a0b3f.svg"
+            alt="WakaTime Stats" /> </p>
 
 ![Lines of Code chart](https://raw.githubusercontent.com/Salianbooth/Salianbooth/main/assets/bar_graph.png)
 
