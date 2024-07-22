@@ -12,6 +12,8 @@
     <br />
    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Salianbooth&theme=iceberg&hide_border=" alt="GitHub Streak" /></a>
     <br />
+    <!--START_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </p>
  <div style="font-size: 36px;text-align: left;">📊 My Contributions  </div> 
  <p align="center">
