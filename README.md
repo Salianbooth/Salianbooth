@@ -7,9 +7,11 @@
 
 <p align="center">
     <!-- https://github.com/anuraghazra/github-readme-stats -->
+    ### 🔥 My Status
   <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Salianbooth&theme=tokyonight&include_all_commits=true&show_icons=true&hide_border=true" />
    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Salianbooth&theme=iceberg&hide_border=" alt="GitHub Streak" /></a>
     <br />
+    ### 📃 My Contributions  
     <img width="800"
         src="https://github-readme-activity-graph.vercel.app/graph?username=Salianbooth&theme=github-compact&hide_border=true&area=true" />
     <br />
