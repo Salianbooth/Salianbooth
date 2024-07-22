@@ -20,5 +20,5 @@
 </p>
 
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=wave&height=300&color=gradient&text=The%20end&section=footer&reversal=false" />
+    <img src="https://capsule-render.vercel.app/api?type=wave&height=300&color=gradient&text=The%20end&section=footer&reversal=false&fontAlignY=64&animation=fadeIn" />
 </p>
