@@ -69,12 +69,14 @@ Rust                     1 repo              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 **Timeline**
 
- <!-- waka-box start -->
- <!-- waka-box end -->
+
 
 
  Last Updated on 22/07/2024 04:48:28 UTC
 <!--END_SECTION:waka-->
+
+ <!-- waka-box start -->
+ <!-- waka-box end -->
 </p>
  <div style="font-size: 36px;text-align: left;">📊 My Contributions  </div> 
  <p align="center">
