@@ -12,7 +12,7 @@
     <br /> <br />
    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Salianbooth&theme=iceberg&hide_border=" alt="GitHub Streak" /></a>
     <br />
-
+<!-- waka time-->
  <div style="font-size: 36px;text-align: left;">🍔 WakaTime   </div> 
 <picture>
   <source
