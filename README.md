@@ -28,7 +28,7 @@
 
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-413.7%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-413.70%20thousand%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
@@ -58,7 +58,7 @@ Sunday                   45 commits          ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 
- Last Updated on 31/12/2025 18:53:00 UTC
+ Last Updated on 01/01/2026 18:53:38 UTC
 <!--END_SECTION:waka-->
 
 </p>
