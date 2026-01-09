@@ -2,10 +2,15 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Welcome%20to%20my%20space&fontAlign=48&fontColor=0d1117&animation=fadeIn&stroke=0d1117&reversal=false&desc=Salianbooth&descAlign=61&descAlignY=38" />
 </p>
 
-<p align="center">
-  <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Salianbooth&theme=tokyonight" style="display: inline-block; margin: 0 10px;" />
-  <img src="https://streak-stats.demolab.com?user=Salianbooth&theme=tokyonight&hide_border" style="display: inline-block; margin: 0 10px;" />
-</p>
+# 🧙‍♂️ My Status
+
+<!-- GitHub Stats -->
+![Salianbooth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Salianbooth&theme=tokyonight)
+
+<br />
+
+<!-- GitHub Streak -->
+![GitHub Streak](https://streak-stats.demolab.com?user=Salianbooth&theme=iceberg&hide_border=true)
 
 
 <!-- waka time-->
