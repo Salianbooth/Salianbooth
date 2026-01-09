@@ -5,13 +5,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A347F7&center=false%C2%A0%E5%81%87&vCenter=false%C2%A0%E5%81%87&repeat=true%C2%A0%E7%9C%9F&random=false%C2%A0%E5%81%87&width=444&lines=Welcome+to+my+Github+profile+page!" alt="Typing SVG" /></a>
 </p>
 
- <div style="font-size: 36px;text-align: left;">🧙‍♂️ My Status </div>
-<p align="center">
-    <!-- https://github.com/anuraghazra/github-readme-stats -->
-  <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Salianbooth&theme=tokyonight" />
-    <br /> <br />
-   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Salianbooth&theme=iceberg&hide_border=" alt="GitHub Streak" /></a>
-    <br />
+
+
 <!-- waka time-->
  <div style="font-size: 36px;text-align: left;">🍔 WakaTime   </div> 
 <picture>
