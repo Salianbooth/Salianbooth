@@ -5,8 +5,8 @@
 # 🧙‍♂️ My Status
 
 <!-- GitHub Stats -->
-![Salianbooth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Salianbooth&theme=tokyonight)
-
+<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Salianbooth&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN"Salianbooth/> </div>
 <br />
 
 
@@ -27,4 +27,3 @@
 <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=wave&height=300&color=gradient&text=The%20end&section=footer&reversal=false&fontAlignY=64&animation=fadeIn" />
 </p>
-这个也优化一下
